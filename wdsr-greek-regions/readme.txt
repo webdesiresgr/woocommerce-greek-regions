@@ -1,5 +1,5 @@
 === WooCommerce Greek Regions ===
-Contributors: Γούλας Φώτιος
+Contributors: Webdesires
 Author URI: https://www.webdesires.gr
 Tags: ecommerce, woocommerce
 Requires at least: 5.6
